@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Exercicio2",
+            "request": "launch",
+            "mainClass": "Exercicio2",
+            "projectName": "Lista1_bc739e52"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio1",
+            "request": "launch",
+            "mainClass": "Exercicio1",
+            "projectName": "Lista1_bc739e52"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Lista1_bc739e52"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
